@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://droll.kr/br/</loc>
+    <lastmod>2021-04-13T11:21:54+09:00</lastmod>
+  </url><url>
+    <loc>https://droll.kr/</loc>
+    <lastmod>2021-04-05T17:37:43+09:00</lastmod>
+  </url><url>
+    <loc>https://droll.kr/posts/post_book/</loc>
+    <lastmod>2021-04-05T17:37:43+09:00</lastmod>
+  </url><url>
+    <loc>https://droll.kr/posts/</loc>
+    <lastmod>2021-04-05T17:37:43+09:00</lastmod>
+  </url><url>
+    <loc>https://droll.kr/cr/</loc>
+  </url><url>
+    <loc>https://droll.kr/categories/</loc>
+  </url><url>
+    <loc>https://droll.kr/a/</loc>
+  </url><url>
+    <loc>https://droll.kr/ar/</loc>
+  </url><url>
+    <loc>https://droll.kr/tags/</loc>
+  </url>
+</urlset>
